@@ -3,3 +3,7 @@ mcpdev/
 mcpdev
 venv/
 venv
+__pycache__
+__pycache__/
+clients/__pycache__
+servers/__pycache__
