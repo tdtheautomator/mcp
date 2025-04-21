@@ -1,0 +1,10 @@
+mcp[cli] # Multi-Context-Protocol CLI
+httpx # HTTP client for Python 3.6+
+starlette # async server gateway interface (asgi) framework
+uvicorn # ASGI server for running the app
+openai # OpenAI API client
+fastapi # web framework for building APIs with Python 3.6+ based on standard Python type hints
+yfinance # Yahoo Finance API client
+ollama # Ollama API client
+requests # HTTP library for Python
+gradio # Simple web UI 
